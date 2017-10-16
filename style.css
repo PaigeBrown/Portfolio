@@ -1,0 +1,94 @@
+html {
+     height: 100%;
+     font-size: 100%;
+ }
+
+body {
+    background: rgb(164, 191, 234);
+}
+
+.title {
+  text-align: center;
+  text-transform: lowercase;
+  font-family: 'Inconsolata', monospace;
+  /*position: absolute;*/
+  height:50px;
+  padding-right: 50px;
+}
+.title img {
+  width: 50px;
+  float: left;
+}
+
+.navbar {
+  background-color: white;
+  height:80px;
+  padding: 15px;
+}
+
+.navbar .links-container {
+  text-align: right;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
+
+.intro {
+  font-family: 'Inconsolata', monospace;
+  font-size: 20px;
+  padding: 50px;
+  text-align: center;
+  background-color: teal;
+}
+
+.resume {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+}
+
+.projectDonnie {
+  width: 25%;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+  display: inline-block;
+}
+
+div img {
+  width: 300px;
+}
+
+.project2 {
+  width: 25%;
+  padding:20px;
+  padding-top: 230px;
+  text-align: center;
+  background-color: white;
+  display: inline-block;
+  margin-left: 550px;
+  margin-bottom: 100px;
+}
+
+.formTitle {
+  background-color: teal;
+  height: 20px;
+  text-align: center;
+  padding: 5px;
+  font-family: 'Inconsolata', monospace;
+  font-size: 17px;
+  padding-bottom: 20px;
+}
+
+.form {
+  height: 50px;
+  background-color: teal;
+  padding: 20px;
+  text-align: center;
+}
+
+.form textarea {
+  /*padding-top: 5px;
+  border-top: 5px;*/
+}

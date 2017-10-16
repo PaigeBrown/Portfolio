@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  text-transform: lowercase;
+  font-family: 'Inconsolata', monospace;
+}
+
+.aboutMeImage {
+  position: relative;
+  top:0; bottom:0; left:30%; right:0;
+  /*width: 100%;*/
+  height: 500px;
+}
+
+.aboutMeText {
+  text-align: center;
+  
+}
